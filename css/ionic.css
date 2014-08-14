@@ -7,7 +7,11 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #4D84E0;}
+  /*
+  background: #4D84E0;
+  */
+  background: #296AD4;
+}
 
 .reveal {
   color: #333333;
